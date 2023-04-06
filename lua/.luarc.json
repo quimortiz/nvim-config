@@ -1,0 +1,32 @@
+{
+    "$schema": "https://raw.githubusercontent.com/sumneko/vscode-lua/master/setting/schema.json",
+    "Lua.workspace.library": [
+        "/home/quim/.config/nvim",
+        "/home/quim/.local/share/nvim/site",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/Comment.nvim",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/LuaSnip",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/cmp_luasnip",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/fidget.nvim",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/gitsigns.nvim",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/lualine.nvim",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/mason.nvim",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/nvim-cmp",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/onedark.nvim",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/plenary.nvim",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/telescope.nvim",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/vim-fugitive",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/vim-rhubarb",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/vim-sleuth",
+        "/home/quim/local/share/nvim/runtime",
+        "/home/quim/local/lib/nvim",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after",
+        "/home/quim/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after",
+        "${3rd}/luassert/library"
+    ]
+}

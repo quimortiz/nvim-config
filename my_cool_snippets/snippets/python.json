@@ -1,0 +1,9 @@
+{
+  "print": {
+    "prefix": "pp",
+    "body": [
+      "print(f\"${1:var} {${1:var}}\")"
+    ],
+    "description": "Code snippet for print "
+  }
+}
